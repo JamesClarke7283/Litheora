@@ -11,7 +11,7 @@
 ## Acceptance Criteria
 
 ### Scenario 1: Register
-**Given** A username, email and password
+**Given** A username, and password
   
 **And** The username and email are not already in use.
   
