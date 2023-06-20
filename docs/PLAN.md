@@ -15,27 +15,11 @@ well as low level stuff)
 - Built in asset storage  
 - Convert images uploading into web friendly format  
 - Websites built with blocks / page types  
-- Build your own blocks with jinja template
-
-# Taking insiration
-What do CMS's do well?
-
-## Wordpress
-Relatively simple interface, guntenberg editor is good visually, but lacks enough blocks.
-monochrome colours.
-
-## Drupal
-Has good amount of customization, flexability.
-
-## Plone
-Nice dashboard.
-
-## Ghost
-Analytics Page (Dashboard) looks nice.
+- Build your own blocks with go template
 
 # Technology Stack
-or GO:
-- Programming language: Go
-- Web Server: Echo
-- Database: mgm
+Python:
+- Programming language: Python 3.11
+- Web Server: Quart
+- Database: MongoEngine
 

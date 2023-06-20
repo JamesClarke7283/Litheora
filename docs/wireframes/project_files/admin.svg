@@ -10,6 +10,9 @@
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="admin.svg"
    xml:space="preserve"
+   inkscape:export-filename="../admin.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="505.5"
+     inkscape:cx="442"
      inkscape:cy="266"
      inkscape:window-width="1536"
      inkscape:window-height="836"
@@ -49,7 +52,7 @@
          y="8.4515905">Control Centre</tspan></text><g
        id="g367"
        transform="matrix(1.5968045,0,0,1.626639,157.87769,-4.9166725)"><rect
-         style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
          id="rect345"
          width="29.049784"
          height="24.324888"
@@ -74,12 +77,12 @@
        id="g367-3"
        transform="matrix(1.556351,0,0,1.5898743,53.284306,-3.9577543)"><g
          id="g442"><rect
-           style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
            id="rect345-6"
            width="29.049784"
            height="24.324888"
-           x="12.263673"
-           y="18.244505" /><text
+           x="12.402381"
+           y="17.930359" /><text
            xml:space="preserve"
            style="font-size:6.35px;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
            x="17.194588"
@@ -97,8 +100,9 @@
              id="path426" /></g></g></g><g
        id="g367-3-6"
        transform="matrix(1.556351,0,0,1.5898743,104.94362,-4.0985784)"><g
-         id="g442-2"><rect
-           style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+         id="g442-2"
+         transform="translate(-0.25984918,-0.00103605)"><rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
            id="rect345-6-9"
            width="29.049784"
            height="24.324888"
@@ -121,7 +125,7 @@
              id="path507" /></g></g></g><g
        id="g367-9"
        transform="matrix(1.5968045,0,0,1.626639,158.14728,38.437985)"><rect
-         style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
          id="rect345-3"
          width="29.049784"
          height="24.324888"
@@ -145,7 +149,7 @@
        id="g367-3-61"
        transform="matrix(1.556351,0,0,1.5898743,53.553894,39.396904)"><g
          id="g442-8"><rect
-           style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
            id="rect345-6-7"
            width="29.049784"
            height="24.324888"
@@ -169,7 +173,7 @@
        id="g367-3-6-7"
        transform="matrix(1.556351,0,0,1.5898743,105.21321,39.25608)"><g
          id="g442-2-5"><rect
-           style="fill:none;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.45739;stroke-linecap:round;stroke-linejoin:round"
            id="rect345-6-9-9"
            width="29.049784"
            height="24.324888"

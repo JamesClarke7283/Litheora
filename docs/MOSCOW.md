@@ -6,7 +6,7 @@
 Raw Files, like Page Title, Blocks.
 - Built in asset storage: (converts it into multiple formats)    
 - Websites built with blocks / page types 
-- Build your own blocks with jinja template
+- Build your own blocks with go html templates
 ## Should have
 - Plugin Support  
      - Loaded by placing plugin in a plugin folder  
@@ -19,3 +19,4 @@ well as low level stuff)
 ## Won't have (at least in this version)
 - Use Redis for caching (cache the rendered pages)  
 - Page analytics
+- Multi Site support
