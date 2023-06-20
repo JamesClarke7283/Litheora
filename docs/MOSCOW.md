@@ -1,4 +1,4 @@
-# MosCow Analysis for project
+# MoSCoW Analysis for project
 ## Must have
 - Easy creation of fast and lightweight websites 
 - Web interface for admin

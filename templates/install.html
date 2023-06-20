@@ -1,0 +1,45 @@
+{% extends "default.html" %}
+{% block title %}
+Nimble - Install
+{% endblock %}
+
+{% block body %}
+<h1>Installation</h1>
+<h2>Site Configuration</h2>
+<div class="grid">
+<section>
+<form>
+    <label for="site_title">Site Title:</label><br>
+    <input type="text" id="site_title" name="site_title" value="My Site" required><br>
+    <label for="site_host">Site Host:</label><br>
+    <input type="text" id="site_host" name="site_host" value="127.0.0.1" required ><br>
+    <label for="db_string">Database String:</label><br>
+    <input type="text" id="db_string" name="db_string" value="sqlite://nimble.db" required><br>
+    <input type="submit" value="Submit">
+</form>
+</section>
+</div>
+
+<div class="grid">
+<section>
+<h2>Admin User Configuration</h2>
+<form>
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username" required><br>
+    <label for="password">Password:</label><br>
+    <input type="password" id="password" name="password" required><br>
+
+    <label for="confirm_password">Confirm Password:</label><br>
+    <input type="password" id="confirm_password" name="confirm_password" required><br>
+
+    <input type="submit" value="Submit">
+</form>
+</section>
+</div>
+</body>
+</html>
+{% endblock %}
+
+{% block footer %}
+
+{% endblock %}

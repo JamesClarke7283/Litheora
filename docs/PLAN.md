@@ -21,5 +21,5 @@ well as low level stuff)
 Python:
 - Programming language: Python 3.11
 - Web Server: Quart
-- Database: MongoEngine
+- Database: TortoiseORM
 
