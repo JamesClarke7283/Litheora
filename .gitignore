@@ -5,3 +5,4 @@ docs/paper/nimble.log
 docs/paper/nimble.pdf 
 docs/paper/nimble.synctex.gz
 .venv
+__pycache__
