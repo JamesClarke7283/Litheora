@@ -6,6 +6,7 @@ A modern, lightweight and easy to use Content Management System (CMS) written in
 - Modularity: The application is broken up into many modules, so components can be easily replaced.
 - Simplicity: The application should be easy to use, and easy to understand.
 - Flexibility: The application should be able to be used in many different ways.
+- Lightweight: The application should be fast, and not use too many resources.
 
 # Planned Features
 - Block Editor: A block editor is used to edit pages, we even allow users to edit the block types themselves.
